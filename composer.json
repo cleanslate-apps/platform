@@ -1,0 +1,16 @@
+{
+    "name": "cleanslate/platform",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dane Williams",
+            "email": "dane@danewilliams.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "CleanSlate\\Platform" : "src"
+        }
+    }
+}
